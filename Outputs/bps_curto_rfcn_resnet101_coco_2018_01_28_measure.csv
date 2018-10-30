@@ -1,0 +1,4 @@
+Object Type, Object Color, Object Movement Direction, Object Speed (km/h)
+backpack,down,131.0,0,1
+tv,up,249.0,1,1
+tv,up,255.0,2,1

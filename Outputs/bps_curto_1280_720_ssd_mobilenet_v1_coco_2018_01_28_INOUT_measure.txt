@@ -1,0 +1,2 @@
+Object Type, Object Color, Object Movement Direction, Object Speed (km/h)
+potted plant,up,30,0,1

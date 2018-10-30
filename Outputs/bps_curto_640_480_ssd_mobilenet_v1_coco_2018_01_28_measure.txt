@@ -1,0 +1,8 @@
+Object Type, Object Color, Object Movement Direction, Object Speed (km/h)
+person,down,61,1,0
+person,up,503,1,1
+person,up,504,1,2
+person,down,505,2,2
+person,down,506,3,2
+person,up,507,3,3
+person,up,508,3,4

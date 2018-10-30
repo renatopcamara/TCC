@@ -1,0 +1,4 @@
+Object Type, Object Color, Object Movement Direction, Object Speed (km/h)
+book,up,30.0,1,0
+book,up,132.0,2,0
+book,down,244.0,2,1

@@ -1,0 +1,10 @@
+Object Type, Object Color, Object Movement Direction, Object Speed (km/h)
+bowl,down,271,1,0
+bowl,down,281,2,0
+person,down,282,3,0
+person,up,283,3,1
+bowl,up,284,3,2
+laptop,up,553,3,3
+laptop,up,554,3,4
+handbag,up,555,3,5
+handbag,up,556,3,6
